@@ -1,5 +1,5 @@
 1. Machine Learning : Regularization technique
-Ridge and Lasso Regularization
+- Ridge and Lasso Regularization
 
 I took a hands-on approach for learning the Machine Learning library for building the model called 'Ridge and Lasso Regularization'. 
 You can find the python notebook done in Google colab, added as a file in this repository.
